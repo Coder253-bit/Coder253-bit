@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Coder253-bit
-- 👀 I’m interested in coding in Python and becoming a reliable data manipulator
-- 🌱 I’m currently learning NLP 
-- 💞️ I’m looking to collaborate on any NLP projects!
+- 👀 I work as a data scientist in a tech consulting company. I am a self motivated problem solver interested in building practical solutions for my clients. I am a team player and love collaborating with people from diverse backgrounds.
+- Currently skilled in Big data modelling, LLMs, NLP, and recommender systems
+- I am currently learning AzureML.
+- My next goal is to learn Neural Networks for advancing my projects.
 - 📫 How to reach me: My email ID: snehabhattacharya729@gmail.com
 
 <!---
